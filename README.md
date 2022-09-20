@@ -11,6 +11,7 @@ One more time
 One last time
 
 ## How to Contribute
+Please fork this repo and then issue pull request
 
 ### Copyright
 
