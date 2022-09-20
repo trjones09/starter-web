@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Todd Jones   t@gmail.com  twitter
 
 # THANKS
 
